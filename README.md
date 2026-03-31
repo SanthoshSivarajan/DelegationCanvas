@@ -97,6 +97,23 @@ Optimized for large environments:
 - **ActiveDirectory module** (RSAT)
 - Domain user account (Domain Admin or delegated read access recommended)
 
+## Screenshots
+
+### Executive Summary
+![Executive Summary](screenshots/3.jpg)
+
+### Section
+![Domain Section](screenshots/2.jpg)
+
+### Charts
+![Charts](screenshots/4.jpg)
+
+### Auit
+![DC Table](screenshots/5.jpg)
+
+### Run Summary
+![DC Table](screenshots/1.jpg)
+
 ## License
 
 MIT -- Free to use, modify, and distribute.
